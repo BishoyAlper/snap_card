@@ -1,3 +1,9 @@
+# How To Run Project
+1. Clone the repository:
+git clone https://github.com/nafishahmeddev/fintracker.git
+
+
+
 # snap_card
 
 A new Flutter project.
